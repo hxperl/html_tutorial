@@ -45,3 +45,15 @@ HTML is a Markup Language We use tags <> to mark content up
 - Tags can contain attributes <p class="myclass">
 - Tags can be nested in other tags
 - Tags are normally indented when nested for readability
+
+### 2. HTML Basics
+
+The Head and Body
+
+##### Head and Body tags
+
+- The <head> tag contains all the 'extra' information about a web page
+    - Meta data
+    - CSS & JavasScript references
+- The <body> contains all visual content
+    - Headings, images, paragraphs etc
