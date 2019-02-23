@@ -77,3 +77,11 @@ The Head and Body
 - External - links to other websites
 - Downloads - links to files
 - Anchors - links to specific areas on a page
+
+##### HTML Lists
+
+###### Types of Lists
+
+- Unordered list - <ul> + <li>
+- Ordered list - <ol> + <li>
+- Definition list - <dl> + <dt> + <dd>
