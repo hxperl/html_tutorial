@@ -108,3 +108,10 @@ The Head and Body
 2. Within <style> tags in the head of the document
 3. By linking up a stylesheet in the head
 
+##### Adding JavaScript to HTML
+
+###### How to Add JavaScript
+
+1. In the <script> tag in the head or body
+2. By linking a .js file in the head or body
+3. Inline(not a good practise)
