@@ -85,3 +85,9 @@ The Head and Body
 - Unordered list - <ul> + <li>
 - Ordered list - <ol> + <li>
 - Definition list - <dl> + <dt> + <dd>
+
+
+##### The div tag
+
+- div stands for 'division'
+- Used to divide content into logical sections
