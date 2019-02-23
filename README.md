@@ -57,3 +57,7 @@ The Head and Body
     - CSS & JavasScript references
 - The <body> contains all visual content
     - Headings, images, paragraphs etc
+
+##### Structuring Headings
+
+- Heading tags range from h1 to h6
