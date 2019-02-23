@@ -64,15 +64,15 @@ The Head and Body
 
 ##### The img Tag
 
-- '<img>'
+- `<img>`
 - Specify where the image is stored using the 'src' attribute
-- '<img src="image-source-path.jpg">'
+- `<img src="image-source-path.jpg">`
 
 ##### HTML Links
 
 ###### The Anchor Tag
 
-- '<a href="link-source">'
+- `<a href="link-source">`
 - Internal - links to pages in own website
 - External - links to other websites
 - Downloads - links to files
@@ -82,9 +82,9 @@ The Head and Body
 
 ###### Types of Lists
 
-- Unordered list - '<ul> + <li>'
-- Ordered list - '<ol> + <li>'
-- Definition list - '<dl> + <dt> + <dd>'
+- Unordered list - `<ul> + <li>`
+- Ordered list - `<ol> + <li>`
+- Definition list - `<dl> + <dt> + <dd>`
 
 
 ##### The div tag
@@ -105,13 +105,13 @@ The Head and Body
 ###### 3 Ways to Add CSS
 
 1. Inline styling using the style attribute
-2. Within '<style>' tags in the *head* of the document
+2. Within `<style>` tags in the *head* of the document
 3. By linking up a stylesheet in the head
 
 ##### Adding JavaScript to HTML
 
 ###### How to Add JavaScript
 
-1. In the '<script>' tag in the head or body
+1. In the `<script>` tag in the head or body
 2. By linking a .js file in the head or body
 3. Inline(not a good practise)
