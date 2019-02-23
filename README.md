@@ -61,3 +61,19 @@ The Head and Body
 ##### Structuring Headings
 
 - Heading tags range from h1 to h6
+
+##### The img Tag
+
+- <img>
+- Specify where the image is stored using the 'src' attribute
+- <img src="image-source-path.jpg">
+
+##### HTML Links
+
+###### The Anchor Tag
+
+- <a href="link-source">
+- Internal - links to pages in own website
+- External - links to other websites
+- Downloads - links to files
+- Anchors - links to specific areas on a page
