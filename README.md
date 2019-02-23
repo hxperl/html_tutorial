@@ -99,3 +99,12 @@ The Head and Body
 - A Class is an identifier of an element which can be used multiple times on a page
     - E.g. Comment(when there are multiple comments)
 - Both are used for JS and CSS
+
+##### Adding CSS to HTML
+
+###### 3 Ways to Add CSS
+
+1. Inline styling using the style attribute
+2. Within <style> tags in the head of the document
+3. By linking up a stylesheet in the head
+
