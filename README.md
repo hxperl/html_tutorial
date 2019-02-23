@@ -91,3 +91,11 @@ The Head and Body
 
 - div stands for 'division'
 - Used to divide content into logical sections
+
+##### ID's and Classes
+
+- And ID is a UNIQUE identifier, used once on a page
+    - E.g. header, about
+- A Class is an identifier of an element which can be used multiple times on a page
+    - E.g. Comment(when there are multiple comments)
+- Both are used for JS and CSS
